@@ -310,7 +310,7 @@
 </header>
 
     
-<style>
+    <style>
     .carousel-control {
         width: 45px;
         height: 45px;
@@ -502,9 +502,33 @@
     });
 </script>
 
+    
+     
+        <!-- 雪花特效 -->
+        
+            <script type="text/javascript">
+                var windowWidth = $(window).width();
+                if (windowWidth > 768) {
+                    if(new Date().getHours()%2==0){
+                    document.write('<script type="text/javascript" src="/js/xuehuapiaoluo.js"><\/script>');
+                    }
+                }
+            </script>
+        
+     
+    <!-- 樱花特效 -->
+       
+            <script type="text/javascript">
+                var windowWidth = $(window).width();
+                if (windowWidth > 768) {
+                    if(new Date().getHours()%2==1){
+                    document.write('<script type="text/javascript" src="/js/sakura.js"><\/script>');
+                    }               
+                }
+            </script>
+        
 
-
-<main class="content">
+    <main class="content">
 
     
     <div id="indexCard" class="index-card">
