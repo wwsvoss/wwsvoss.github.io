@@ -1,4 +1,3 @@
-/* 鼠标点击文字特效 */
 var a_idx = 0;
 jQuery(document).ready(function($) {
     $("body").click(function(e) {

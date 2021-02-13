@@ -1,5 +1,3 @@
-/*样式一*/
-//背景雪花飘落特效
 (function($){
   $.fn.snow = function(options){
   var $flake = $('<div id="snowbox" />').css({'position': 'absolute','z-index':'9999', 'top': '-50px'}).html('&#10052;'),
