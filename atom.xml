@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小二上酒</title>
+  
+  <subtitle>欢迎来到小二上酒的博客</subtitle>
+  <link href="http://wwsvoss.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://wwsvoss.github.io/"/>
+  <updated>2021-02-15T15:01:18.381Z</updated>
+  <id>http://wwsvoss.github.io/</id>
+  
+  <author>
+    <name>小二上酒</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于华为云的图像识别系统</title>
+    <link href="http://wwsvoss.github.io/2021/02/15/ji-yu-hua-wei-yun-de-tu-xiang-shi-bie-xi-tong/"/>
+    <id>http://wwsvoss.github.io/2021/02/15/ji-yu-hua-wei-yun-de-tu-xiang-shi-bie-xi-tong/</id>
+    <published>2021-02-15T13:48:18.000Z</published>
+    <updated>2021-02-15T15:01:18.381Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;基于华为云的图像识别系统&quot;&gt;&lt;a href=&quot;#基于华为云的图像识别系统&quot; class=&quot;headerlink&quot; title=&quot;基于华为云的图像识别系统&quot;&gt;&lt;/a&gt;&lt;strong&gt;基于华为云的图像识别系统&lt;/strong&gt;&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="AI" scheme="http://wwsvoss.github.io/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://wwsvoss.github.io/2021/02/10/hello-world/"/>
+    <id>http://wwsvoss.github.io/2021/02/10/hello-world/</id>
+    <published>2021-02-10T10:17:33.247Z</published>
+    <updated>2021-02-15T15:01:18.375Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
